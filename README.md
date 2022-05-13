@@ -1,4 +1,4 @@
-# vue-app1
+# Todo List Application Using Vue
 
 ## Project setup
 ```
